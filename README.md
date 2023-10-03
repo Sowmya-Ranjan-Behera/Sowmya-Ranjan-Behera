@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sowmya-Ranjan-Behera
 - 👀 I’m interested in ...opensource contribution
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...devOps
 - 💞️ I’m looking to collaborate on ...Some projects
 - 📫 How to reach me ...amsowmyaranajanb@gmail.com
 
